@@ -45,6 +45,11 @@ echo Successfully csgo blog Blocked
 echo Star Us ON GitHub!
 echo github.com/zenmaxe/csgo-blog-blocker
 TIMEOUT /T 10
+test&cls
+echo Testing Csgo Blog
+TIMEOUT /T 2
+start "" https://www.blog.counter-strike.net
+
 
 
 
